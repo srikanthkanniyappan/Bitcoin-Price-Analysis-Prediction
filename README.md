@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/srikanthkanniyappan/Bitcoin-Price-Analysis-Prediction/blob/0fbc58c9710c8a3c474662ab1cf35fb3774d9d2d/Images/BitcoinLogo.png" alt="Bitcoin Logo" height="150px">
+  <img src="https://github.com/srikanthkanniyappan/Bitcoin-Price-Analysis-Prediction/blob/bf263033a1c1b0de4acd92e2f2590bb02b58b8c2/Images/BitcoinLogo.png" alt="Bitcoin Logo" height="150px">
 </div>
 <h1 align="center">Bitcoin Price Analysis 💰📈📊</h1>
 <p align="center">
@@ -63,13 +63,13 @@ To run the project, follow these steps:
 ## Screenshots 📷
 Here are some screenshots of the project:
 <div align="center">
-  <img src="https://github.com/srikanthkanniyappan/Bitcoin-Price-Analysis-Prediction/blob/0fbc58c9710c8a3c474662ab1cf35fb3774d9d2d/Images/visualization1.png" alt="Data Visualization 1" width="400">
-  <img src="https://github.com/srikanthkanniyappan/Bitcoin-Price-Analysis-Prediction/blob/0fbc58c9710c8a3c474662ab1cf35fb3774d9d2d/Images/visualization2.png" alt="Data Visualization 2" width="400">
+  <img src="https://github.com/srikanthkanniyappan/Bitcoin-Price-Analysis-Prediction/blob/bf263033a1c1b0de4acd92e2f2590bb02b58b8c2/Images/visualization1.png" alt="Data Visualization 1" width="400">
+  <img src="https://github.com/srikanthkanniyappan/Bitcoin-Price-Analysis-Prediction/blob/bf263033a1c1b0de4acd92e2f2590bb02b58b8c2/Images/visualization2.png" alt="Data Visualization 2" width="400">
 </div>
 
 <div align="center">
-  <img src="https://github.com/srikanthkanniyappan/Bitcoin-Price-Analysis-Prediction/blob/0fbc58c9710c8a3c474662ab1cf35fb3774d9d2d/Images/visualization3.png" alt="Data Visualization 3" width="400">   
-  <img src="https://github.com/srikanthkanniyappan/Bitcoin-Price-Analysis-Prediction/blob/0fbc58c9710c8a3c474662ab1cf35fb3774d9d2d/Images/visualization4.png" alt="Data Visualization 4" width="400">
+  <img src="https://github.com/srikanthkanniyappan/Bitcoin-Price-Analysis-Prediction/blob/bf263033a1c1b0de4acd92e2f2590bb02b58b8c2/Images/visualization3.png" alt="Data Visualization 3" width="400">   
+  <img src="https://github.com/srikanthkanniyappan/Bitcoin-Price-Analysis-Prediction/blob/bf263033a1c1b0de4acd92e2f2590bb02b58b8c2/Images/visualization4.png" alt="Data Visualization 4" width="400">
 </div>
 
 ## Built With 🔧
