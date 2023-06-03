@@ -21,7 +21,7 @@
 - [Built With 🔧](#built-with-)
 - [Screenshots 📷](#screenshots-)
 - [License 📜](#license-)
-- [Author 🖋️](#author)
+- [Author 👨‍💻 ](#author-)
 
 ## Dataset 📁
 
@@ -87,7 +87,7 @@ This project is built with the following libraries:
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Author 🖋️ <a name="author"></a>
+## Author 👨‍💻 
 
 Srikanth Kanniyappan 👨‍💻 
 
