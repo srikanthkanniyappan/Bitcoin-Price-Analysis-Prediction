@@ -60,6 +60,17 @@ To run the project, follow these steps:
 4. Run the code step by step, or execute the desired functions as needed.
 5. The results will be displayed in the console or shown in the form of plots.
 
+## Built With 🔧
+
+This project is built with the following libraries:
+
+- [Python](https://www.python.org/) 🐍
+- [Pandas](https://pandas.pydata.org/) 🐼
+- [NumPy](https://numpy.org/) 🔢
+- [Matplotlib](https://matplotlib.org/) 📊
+- [Seaborn](https://seaborn.pydata.org/) 🌊
+- [scikit-learn](https://scikit-learn.org/) 🧠
+
 ## Screenshots 📷
 Here are some screenshots of the project:
 <div align="center">
@@ -72,16 +83,6 @@ Here are some screenshots of the project:
   <img src="https://github.com/srikanthkanniyappan/Bitcoin-Price-Analysis-Prediction/blob/bf263033a1c1b0de4acd92e2f2590bb02b58b8c2/Images/visualization4.png" alt="Data Visualization 4" width="400">
 </div>
 
-## Built With 🔧
-
-This project is built with the following libraries:
-
-- [Python](https://www.python.org/) 🐍
-- [Pandas](https://pandas.pydata.org/) 🐼
-- [NumPy](https://numpy.org/) 🔢
-- [Matplotlib](https://matplotlib.org/) 📊
-- [Seaborn](https://seaborn.pydata.org/) 🌊
-- [scikit-learn](https://scikit-learn.org/) 🧠
 
 ## License 📜
 
