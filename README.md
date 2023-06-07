@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/srikanthkanniyappan/Bitcoin-Price-Analysis-Prediction/blob/bf263033a1c1b0de4acd92e2f2590bb02b58b8c2/Images/BitcoinLogo.png" alt="Bitcoin Logo" height="150px">
+  <img src="https://github.com/srikanthkanniyappan/Bitcoin-Price-Analysis-Prediction/assets/135094991/f810dc04-def2-4a67-860e-08b37189f21d" alt="Bitcoin Logo" height="150px">
 </div>
 <h1 align="center">Bitcoin Price Analysis 💰📈📊</h1>
 <p align="center">
@@ -74,13 +74,14 @@ This project is built with the following libraries:
 ## Screenshots 📷
 Here are some screenshots of the project:
 <div align="center">
-  <img src="https://github.com/srikanthkanniyappan/Bitcoin-Price-Analysis-Prediction/blob/bf263033a1c1b0de4acd92e2f2590bb02b58b8c2/Images/visualization1.png" alt="Data Visualization 1" width="400">
-  <img src="https://github.com/srikanthkanniyappan/Bitcoin-Price-Analysis-Prediction/blob/bf263033a1c1b0de4acd92e2f2590bb02b58b8c2/Images/visualization2.png" alt="Data Visualization 2" width="400">
+  <img src="https://github.com/srikanthkanniyappan/Bitcoin-Price-Analysis-Prediction/assets/135094991/a8fc3c81-8daa-4840-b285-a3a7555a03ce" alt="Data Visualization 1" width="400">
+  <img src="https://github.com/srikanthkanniyappan/Bitcoin-Price-Analysis-Prediction/assets/135094991/573c1521-cba3-4567-b2ac-fa71006e998c" alt="Data Visualization 2" width="400">
 </div>
 
+
 <div align="center">
-  <img src="https://github.com/srikanthkanniyappan/Bitcoin-Price-Analysis-Prediction/blob/bf263033a1c1b0de4acd92e2f2590bb02b58b8c2/Images/visualization3.png" alt="Data Visualization 3" width="400">   
-  <img src="https://github.com/srikanthkanniyappan/Bitcoin-Price-Analysis-Prediction/blob/bf263033a1c1b0de4acd92e2f2590bb02b58b8c2/Images/visualization4.png" alt="Data Visualization 4" width="400">
+  <img src="https://github.com/srikanthkanniyappan/Bitcoin-Price-Analysis-Prediction/assets/135094991/e30c8510-0c08-43f4-8f10-c52c022ade43" alt="Data Visualization 3" width="400">   
+  <img src="https://github.com/srikanthkanniyappan/Bitcoin-Price-Analysis-Prediction/assets/135094991/114d0fd9-80af-461f-b1f7-3187087d2be9" alt="Data Visualization 4" width="400">
 </div>
 
 
